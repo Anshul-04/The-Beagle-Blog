@@ -1,0 +1,19 @@
+*{
+    font-family: 'Inter', sans-serif;
+}
+h2{
+    text-decoration-line:underline;
+}
+.top-div{
+    border: solid 1px ;
+    padding: 15px; 
+    
+}
+.top-div p{
+    size:40px;
+}
+ img{
+    width: 1000px;
+    height: 1000px;
+    margin-top: 0;  
+}
